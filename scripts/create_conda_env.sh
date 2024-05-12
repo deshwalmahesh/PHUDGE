@@ -17,4 +17,4 @@ python -m ipykernel install --user --name=train_env --display-name "train_env"
 
 mkdir ~/.cache/huggingface/
 mkdir ~/.cache/huggingface/accelerate/
-cp ./accelerate_default_config.yaml /home/ec2-user/.cache/huggingface/accelerate/default_config.yaml
+cp ./accelerate_default_config.yaml ~/.cache/huggingface/accelerate/default_config.yaml
