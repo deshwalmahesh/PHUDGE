@@ -1,4 +1,4 @@
-# PHUDG3: Phi-3 as Scalable Judge
+# [PHUDG3: Phi-3 as Scalable Judge](https://arxiv.org/abs/2405.08029)
 
 > `3` is for [The Legend](https://en.wikipedia.org/wiki/The_Eminem_Show)  himself
 
@@ -15,8 +15,11 @@ Install all the libraries using `sh ./scripts/create_conda_env.sh` or install th
 1. Go to respective `classif, causal, reg` directories and create data using the steps given there
 2. Each every type of training file type along with their commands to run is given in the `/scripts`. For example, if you need to train a Regression model without the augmentation, you use the command `accelerate launch ./train_phi-3-reg_classif.py --deepspeed "auto"`.
 
- ## Test
+ ## Test - ([Kaggle Notebook Link](https://www.kaggle.com/deshwalmahesh/phudge-inference))
  Got to `/evaluations/EVAL.ipynb` and follow instructions OR follow the steps below:
  1. Load the model
  2. Attach LoRA
  3. Predict 
+
+# Data & LoRA Weights
+[Modified Feedback Collection Data](https://www.kaggle.com/datasets/deshwalmahesh/prometheus-with-wiki-reference)
