@@ -1,4 +1,5 @@
-Here is list of all the LLM Evaluation methods I could find (till Nov, 2023) for LLM Evaluation
+Here is list of all the 75+ LLM Evaluation methods, github repos, tools, blogs I could find (till Nov, 2023) for LLM Evaluation
+
 **Order is random**
 #
 
