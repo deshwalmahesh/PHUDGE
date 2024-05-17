@@ -9,8 +9,10 @@
 # What is it?
 A robust production grade and scalable SOTA (4 Benchmarks) model for Relative and Absolute grading of LLM (as well human) responses. 
 
-What it can do?
+### What it can do?
+
 Given a question and it's response, it can judge the quality of response from a scale of 1-5. It is trained to be used in Absolute (1 Question - 1 Answer) bt can be used as Relative task too. It is supposed to work on Reference free settings too. So you can uSe it as following:
+
 1. Question + Response to evaluate
 2. Question + Response to evaluate + Custom Rubric (scoring criteria for your business use case)
 3. Question + Response to evaluate + Custom Rubric + Reference Answer (A high Quality Answer which serves as the base)
