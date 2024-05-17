@@ -15,6 +15,11 @@ Given a question and it's response, it can judge the quality of response from a 
 
 **The more context you can provide, the better it'll perform**
 
+# Benchmark Results
+It is currently SOTA in 4 benchmarks depite being 10x smaller than Prometheus-2 and being trained on one third of the data. On the other hand, it is second best for JudgeLM and better than PandaLM in Zero Shot settings given the model hasn't seen any of the data from these two benchmarks in it's training at all.
+
+![Alt text](metadata/results.png)
+
 # How to use?
 Install all the libraries using `sh ./scripts/create_conda_env.sh` or install them one by one using the version from the file. 
 
