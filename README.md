@@ -1,10 +1,13 @@
-# [PHUDG3: Phi-3 as Scalable Judge](https://arxiv.org/abs/2405.08029)
+# PHUDG3: Phi-3 as Scalable Judge]
 
 > `3` is for [The Legend](https://en.wikipedia.org/wiki/The_Eminem_Show)  himself
 
+# 
+[Paper Link](https://arxiv.org/abs/2405.08029)
+
 ![Alt text](metadata/PHUDGE.png)
 # What is it?
-A robust production grade SOTA (4 Benchmarks) approach for Relative and Absolute grading of LLM (as well human) responses. 
+A robust production grade and scalable SOTA (4 Benchmarks) model for Relative and Absolute grading of LLM (as well human) responses. 
 
 What it can do?
 Given a question and it's response, it can judge the quality of response from a scale of 1-5. It is trained to be used in Absolute (1 Question - 1 Answer) bt can be used as Relative task too. It is supposed to work on Reference free settings too. So you can uSe it as following:
