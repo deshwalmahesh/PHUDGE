@@ -42,9 +42,11 @@ Install all the libraries using `sh ./scripts/create_conda_env.sh` or install th
  3. Predict 
 
 # Data & LoRA Weights
-[Modified Feedback Collection Data](https://www.kaggle.com/datasets/deshwalmahesh/prometheus-with-wiki-reference)
 
-# Bonus: List of 75+ LLM Evaluation methodologies, tools, blogs, repos, papers etc
+Final LoRA (128) weights and the Modified Feedback Collection Data can be found here on this [Kaggle Dataset](https://www.kaggle.com/datasets/deshwalmahesh/prometheus-with-wiki-reference)
+
+#
+### Bonus: List of 75+ LLM Evaluation methodologies, tools, blogs, repos, papers etc
 
 Go to [`./metadata/OTHERS.md`](https://github.com/deshwalmahesh/PHUDGE/blob/main/metadata/OTHERS.md). It has some repo links which in turn has lots of links
 
