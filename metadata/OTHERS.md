@@ -47,7 +47,9 @@ Here is list of all the 75+ LLM Evaluation methods, github repos, tools, blogs I
 ## Some Papers:
 * [Check your facts and try again](https://arxiv.org/abs/2302.12813)
 * [Researching and Revising What Language Models Say](https://arxiv.org/abs/2210.08726)
-* [Fact-Checking Complex Claims with Program-Guided Reasoning](https://aclanthology.org/2023.acl-long.386.pdf) 
+* [Fact-Checking Complex Claims with Program-Guided Reasoning](https://aclanthology.org/2023.acl-long.386.pdf)
+* [Repo + Paper -> SAC: Reliable Hallucination Detection in Black-Box Language Models via Semantic-aware Cross-check Consistency](https://github.com/intuit/sac3)
+* [Hallucination detection: Robustly discerning reliable answers in Large Language Models](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=9467&context=sis_research)
 
 ## Blog, Video Resources:
 * [victordibia](https://newsletter.victordibia.com/p/practical-steps-to-reduce-hallucination)
