@@ -1,13 +1,14 @@
-# PHUDG3: Phi-3 as Scalable Judge]
+# PHUDG3: Phi-3 as Scalable Judge
 
 > `3` is for [The Legend](https://en.wikipedia.org/wiki/The_Eminem_Show)  himself
 
 # 
 [Paper Link](https://arxiv.org/abs/2405.08029)
 
-![Alt text](metadata/PHUDGE.png)
 # What is it?
 A robust production grade and scalable SOTA (4 Benchmarks) model for Relative and Absolute grading of LLM (as well human) responses. 
+
+![Alt text](metadata/PHUDGE.png)
 
 ### What it can do?
 
