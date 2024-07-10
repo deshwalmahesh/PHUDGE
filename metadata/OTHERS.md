@@ -5,6 +5,7 @@ Here is list of all the 75+ LLM Evaluation methods, github repos, tools, blogs I
 
 ## Repo / Tools:
 
+* [Blog by Lilian](https://lilianweng.github.io/posts/2024-07-07-hallucination/#anti-hallucination-methods)
 * [Repo on Lots and Lots of material on evaluation by EdinburgNLP](https://github.com/EdinburghNLP/awesome-hallucination-detection)
 * [Rajiv Shah's Repo on LLM Evaluation](https://github.com/rajshah4/LLM-Evaluation)
 * [Harpreet's Repo using Langchain to Evaluate Models: Session 7](https://github.com/harpreetsahota204/langchain-zoomcamp/tree/main/session-7)
